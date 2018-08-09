@@ -13,7 +13,7 @@
 </head>
 
 <body>
-<h1>Text1</h1>
+<h1>Text1 changed file extension to .php</h1>
   <script src="js/scripts.js"></script>
 </body>
 </html>
