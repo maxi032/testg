@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>The HTML5 Boilerplate. Title changed by Bogdan</title>
+  <title>The HTML5 Boilerplate. Title changed by Bogdan!</title>
   <meta name="description" content="The HTML5 Boilerplate">
   <meta name="author" content="Maxi032">
 

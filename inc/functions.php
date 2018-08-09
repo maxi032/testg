@@ -1,2 +1,2 @@
 <?php
-echo "Inside functions.php";
+echo "Inside functions.php!";
